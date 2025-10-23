@@ -1,4 +1,4 @@
-const nameText = "Rongala Kiran Koteswarao";
+const nameText = "Rongala Kiran Koteswararao";
 let i = 0;
 const typingElement = document.getElementById("typing");
 
